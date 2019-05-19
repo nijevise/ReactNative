@@ -26,6 +26,6 @@
       "supportsTablet": true
     }
   },
-  "slug": "forecast",
-  "name": "Forecast"
+  "slug": "weather",
+  "name": "Weather"
 }
